@@ -3,5 +3,6 @@
 - 👀 I’m interested in love to code
 - 🌱 I’m currently learning IIT Certified Programming Professional & Master Data Science through guvi
 - 📫 How to reach me --email: nithilaselvan98@gmail.com
+- 📫 linkedin profile: https://www.linkedin.com/in/nithilaselvan-1998/
 
 
