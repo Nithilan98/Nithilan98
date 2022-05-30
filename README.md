@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NITHILASELVAN</h1>
 <h3 align="center">Data science, machine learning, data analyst.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
+<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithilan98&label=Profile%20views&color=0e75b6&style=flat" alt="nithilan98" /> </p>
 
 
