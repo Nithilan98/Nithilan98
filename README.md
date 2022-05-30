@@ -1,9 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm NITHILASELVAN</h1>
 <h3 align="center">Data science, machine learning, data analyst</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithilan98&label=Profile%20views&color=0e75b6&style=flat" alt="nithilan98" /> </p>
 
 - 🌱 I’m currently learning **Data Science, Machine learning, Deep learning**
 
@@ -15,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nithilaselvan-1998" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithilaselvan-1998" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nithilaselvan-1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithilaselvan-1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
