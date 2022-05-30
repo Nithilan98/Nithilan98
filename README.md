@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine learning, Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nithilan98?tab=repositories](hhttps://github.com/Nithilan98?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Nithilan98?tab=repositories](https://github.com/Nithilan98?tab=repositories)
 
 - 💬 Ask me about **Machine learning, Python, Pandas,Sql,Scikit-learn**
 
