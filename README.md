@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NITHILASELVAN</h1>
-<h3 align="center">Data science, machine learning, data analyst.</h3>
+<h3 align="center">Data science, machine learning, data analyst</h3>
 <img align="right" alt="Coding" width="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithilan98&label=Profile%20views&color=0e75b6&style=flat" alt="nithilan98" /> </p>
 
